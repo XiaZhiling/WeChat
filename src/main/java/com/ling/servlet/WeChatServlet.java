@@ -14,6 +14,11 @@ import com.ling.po.TextMessage;
 import com.ling.utils.CheckUtil;
 import com.ling.utils.MessageUtil;
 
+/**
+ * Î¢ÐÅservlet
+ * @author XiaZhiling
+ *
+ */
 public class WeChatServlet extends HttpServlet {
 
 	private static final long serialVersionUID = -9144981917677357680L;

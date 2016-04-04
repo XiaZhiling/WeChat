@@ -2,8 +2,18 @@ package com.ling.utils;
 
 import java.security.MessageDigest;
 
+/**
+ * 加密工具
+ * @author XiaZhiling
+ *
+ */
 public class EncryptUtil {
 	
+	/**
+	 * SHA1 加密
+	 * @param str
+	 * @return 加密后的字符串
+	 */
 	public static String getSha1(String str) {
 		if(str == null || str.length() == 0){
 			return null;

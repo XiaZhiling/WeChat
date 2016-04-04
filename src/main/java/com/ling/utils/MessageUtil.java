@@ -14,6 +14,11 @@ import org.dom4j.io.SAXReader;
 import com.ling.po.TextMessage;
 import com.thoughtworks.xstream.XStream;
 
+/**
+ * 微信消息xml类型与Map类型相互转换
+ * @author XiaZhiling
+ *
+ */
 public class MessageUtil {
 	
 	/**

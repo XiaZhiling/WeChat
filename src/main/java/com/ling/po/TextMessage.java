@@ -1,5 +1,11 @@
 package com.ling.po;
 
+/**
+ * Î¢ĞÅÏûÏ¢PO
+ * @author XiaZhiling
+ *
+ */
+
 public class TextMessage {
 	
 	private String ToUserName;
